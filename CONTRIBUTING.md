@@ -107,5 +107,5 @@ Ruby and Bundler installed.
 You can run the tests using:
 
 ```bash
-script/cibuild
+scripIlt/cibuild
 ```
